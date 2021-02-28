@@ -8,4 +8,5 @@
 *   F1 score on Train Set: 0.65
 *   F1 score on Train Set: 0.59
 
-### TelecomChurnCaseStudy.ipynb - Modeling Notebook
+### Files in this repository:
+* TelecomChurnCaseStudy.ipynb - Modeling Notebook
